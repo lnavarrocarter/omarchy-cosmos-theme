@@ -1,0 +1,37 @@
+# Cosmos: the palette of the Cosmos space scene (github.com/lnavarrocarter/omarchy-cosmos).
+mode = "dark"
+
+accent = "#9b6bff"
+selection = "#2c2550"
+muted = "#6f6b9a"
+
+background = "#0b0a1a"
+dark_background = "#080716"
+darker_background = "#05040f"
+lighter_background = "#16142c"
+
+foreground = "#e6e4ff"
+dark_foreground = "#9d9ac4"
+light_foreground = "#f3f2ff"
+bright_foreground = "#ffffff"
+
+red = "#ff5c8a"
+yellow = "#ffd65a"
+orange = "#ff9447"
+green = "#7dffb0"
+cyan = "#58c8ff"
+blue = "#6c8cff"
+magenta = "#ff6ad5"
+brown = "#c9a86a"
+
+bright_red = "#ff8aab"
+bright_yellow = "#ffe48f"
+bright_green = "#a8ffcb"
+bright_cyan = "#8fdcff"
+bright_blue = "#98b0ff"
+bright_magenta = "#ff9be3"
+
+# Window borders: a nebula gradient (cyan, violet, magenta) around the
+# focused window, a dim indigo around the rest.
+hyprland_active_border = "rgba(58c8ffee) rgba(9b6bffee) rgba(ff6ad5ee) 45deg"
+hyprland_inactive_border = "rgba(2a2f5a99)"
